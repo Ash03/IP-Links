@@ -1,20 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="2599" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZsmQK6oQHGaE71WDOagLCHf_VJLd4zsPS4N_mGdVxSrcf9BS9&usqp=CAU" group-title="Bhabhiji Ghar pe Hai",2599
-https://zee5vodnd.akamaized.net/hls1/elemental/hls/ON_AIR/DOMESTIC/AND_TV/March2020/26032020/Seamless/Rev_Bhabi_Ji_Ghar_Par_Hai_Ep1325_Seamless_26032020_hi_de84c460e138ea3c7cb64c4b4639cf74/index.m3u8?hdnea=st=1590421439~exp=1590424439~acl=/*~hmac=d3bc8c3ed6b302dd3aa97ced2db23fef6784cbf144220f9bf8c14ddadcb88d31
-#EXTINF:-1 tvg-ID="" tvg-name="2600" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/362387494f6be6613daea643a7706a428xm.jpg" group-title="Bhabhiji Ghar pe Hai",2600
-https://zee5vodnd.akamaized.net/hls1/elemental/hls/ON_AIR/DOMESTIC/AND_TV/March2020/26032020/Seamless/Rev_Bhabi_Ji_Ghar_Par_Hai_Ep1325_Seamless_26032020_hi_de84c460e138ea3c7cb64c4b4639cf74/index.m3u8?hdnea=st=1590421439~exp=1590424439~acl=/*~hmac=d3bc8c3ed6b302dd3aa97ced2db23fef6784cbf144220f9bf8c14ddadcb88d31
-#EXTINF:0,Godzilla: King of the Monsters
-https://firebasestorage.googleapis.com/v0/b/calcium-aria-244410.appspot.com/o/5%2FGodzilla%2F2%2FGodzilla.King.of.the.Monsters.2019.720p.Hindi.English.MoviesFlix.Cc.mkv?alt=media&token=86bae4d0-4233-411f-9dc9-484bc56ab648
-#EXTINF:0,Extraction (2020)
-https://firebasestorage.googleapis.com/v0/b/helper-74205.appspot.com/o/Data%2FMov%2F(hindi)Extraction.2020.720p.WEB-DL.Hindi-English.DD5.1.x264-KatmovieHD.nl.mkv?alt=media&token=d89a093f-697d-4cbd-9d67-db39a9618827
-#EXTINF:0,Love aaj kal
-https://firebasestorage.googleapis.com/v0/b/helper-74205.appspot.com/o/Data%2FMov%2Fww1.Cinevood.pro%20-%20LOVE%20AAJ%20KAL%201gb.mkv?alt=media&token=c9871dd0-d08d-4deb-89d3-d0eba3d45fee
-#EXTINF:0,Mrs. serial killer
-https://firebasestorage.googleapis.com/v0/b/helper-74205.appspot.com/o/Data%2FMov%2FMrs.%20Serial%20Killer%202020%20WebRip%20Hindi%20720p%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas%20%5BTelly%5D.mkv?alt=media&token=f8b50e3c-23ce-4d56-b01d-00b58f9d6651
-#EXTINF:0,The Boss Baby
-https://firebasestorage.googleapis.com/v0/b/fluid-root-244305.appspot.com/o/1%2FBoss.Baby%2FThe.Boss.Baby.(2017).720p.Dual.Audio.(Hindi-Eng).%5BMoviesFlix.in%5D.mkv?alt=media&token=b5f04647-9654-42aa-ad0c-f370b3d12acc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZsmQK6oQHGaE71WDOagLCHf_VJLd4zsPS4N_mGdVxSrcf9BS9&usqp=CAU" group-title="Movies",& Pictures HD
-PWdUZHowbUx2NTJidDlTTWhGamR0TTNhakZtYzA5Q1JJaDBZcEJGWnVGMExsWlhhczVpZDBsbmJoNVNhaDFXWXJGMkx2b0RjMFJIYQ==
-#EXTINF:0,Scoob!
-https://firebasestorage.googleapis.com/v0/b/helper-74205.appspot.com/o/Data%2FMov%2FScoob.2020.720p.WEB-HD.x265.HEVC-KatmovieHD.nu.mkv?alt=media&token=aeaad36f-f963-44b6-8ea5-024d7532a685
-
+#EXTINF:-1 tvg-ID="" tvg-name="Kesari" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN1aUif-KG0Xn47EyCWKT_2bsFGwUDrwKIDQi16PWEqhdSFgAA&usqp=CAU" group-title="Movies",Kesari
+https://firebasestorage.googleapis.com/v0/b/t-operative-273515.appspot.com/o/Fixing%2FBoliwud%2Fhub%2FKesari.2019.720p.BluRay.x264.AAC--%20[HDMoviesHub.iN].mp4?alt=media&token=153513a7-662e-4c1a-a299-4eda8cbdb960
