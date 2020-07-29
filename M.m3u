@@ -13,13 +13,6 @@ https://firebasestorage.googleapis.com/v0/b/helper-74205.appspot.com/o/Data%2FSe
 https://firebasestorage.googleapis.com/v0/b/helper-74205.appspot.com/o/Data%2FSeries%2FBetaal%2F%5BS01.E03%5D%20Betaal%20-%20A%20Balath.English.mkV?alt=media&token=4704ae99-873b-43ef-8aee-0aec39f4fad1
 #EXTINF:-1 tvg-ID="" tvg-name="S01E04" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fvideo&psig=AOvVaw3xA9qaqDd7Vbu5bwDvf1ec&ust=1592038050947000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjn6Ify--kCFQAAAAAdAAAAABAt" group-title="Betaal",S01E4
 https://sklktcdnems07.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starpravah/master.m3u8?partner=jio-stb&hdnea=exp=2535984944~acl=/*~hmac=5fd6b0b750b8380ee707f5a24420a5bd58f84683a6bcca03037d9d8be489f9b7
-#EXTINF:0, England Practice Match
-http://hotstar.live.cdn.jio.com/hotstar_isl/sshindiwv/master.mpd?partner=jio-stb&hdnea=st=1594754065~exp=1594754665~acl=/hotstar_isl/sshindiwv/*~data=ip=02019abb8f36212b1c5dba56797c67957e0c27b8ba4aa66b2e0cceda-userid=d24163e7c5ddac3dad0763f385493ab093ebe2c255bde82c0ac3ad935a267037~hmac=0289d870bfb13864ce93c36bcdf92cc495d1b1c6bd51e1776b153c90393ce258
-#EXTINF:0, T10 blast5
-https://sonydai.akamaized.net:443/hls/live/2005444/DAI8ME/master_1848.m3u8?aka_me_session_id=AAAAAAAAAAB6vRFfAAAAAEVTycU1iEuSeePiJCCcSpF0BeYANufl7b4pUINIThUzRBuZbkEQBO6EP45QXs3AThZTjuSFUf2g
-#EXTINF:0, Ratris1
-https://zee5vodnd.akamaized.net/hls1/elemental/hls/ON_AIR/DOMESTIC/ZEE_MARATHI/July2020/27072020/Seamless/Ratris_Khel_Chale_2_Ep390_Seamless_27072020_mr_fb1041fba88966ff8d175524bdc330df/index.m3u8?hdnea=st=1595831634~exp=1595834634~acl=/*~hmac=be1e530d913e936fe5e5eb8e84de58d1e069dac238d17e613dec95b2a8145ca4
-#EXTINF:0, Ratris2
-https://zee5vodnd.akamaized.net/hls1/elemental/hls/ON_AIR/DOMESTIC/ZEE_MARATHI/July2020/28072020/Seamless/Ratris_Khel_Chale_2_Ep391_Seamless_28072020_mr_9594b38b259111584ef57df8651a1598/index.m3u8?hdnea=st=1595831838~exp=1595834838~acl=/*~hmac=af97cf7f5ad37e457a65117d6b44c904265d3b73abae9ac308f567f4783b8962
-#EXTINF:0, Ratris5
-https://zee5vodnd.akamaized.net/hls1/elemental/hls/ON_AIR/DOMESTIC/ZEE_MARATHI/July2020/28072020/Seamless/Ratris_Khel_Chale_2_Ep391_Seamless_28072020_mr_9594b38b259111584ef57df8651a1598/index.m3u8?hdnea=st=1595851411~exp=1595854411~acl=/*~hmac=c0e08e6344c889cf58b612b51248157ff47768d2e8b697889d3a2a6f400476fe
+#EXTINF:0, Naagin S04 E02
+https://vootvideo.akamaized.net/s/enc/hls/p/1982551/sp/198255100/serveFlavor/entryId/0_2ykyxuc3/v/12/pv/1/ev/24/flavorId/0_3ss0vgfg/name/a.mp4/index.m3u8/index-v1-a1.m3u8?__hdnea__=st=1596038234~exp=1596124634~acl=/s/enc/hls/p/1982551/sp/198255100/serveFlavor/entryId/0_2ykyxuc3/v/*~hmac=868c5d80272490df5d9fc594d04ced6960b49efbd85992f7430196377fe8cd7b
+#EXTINF:0, Naagin S04 E03
