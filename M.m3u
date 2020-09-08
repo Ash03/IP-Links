@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:0, Csk1
 https://ssvodasp-vh.akamaihd.net/i/videos/vod/cricket/ipl2018/18_02_2018/1609255/IPL_2013_M16_CSK_RCB_HLTS_1609255_,54,106,180,400,800,1300,2000,4500,_STAR.mp4.csmil/master.m3u8?hdnea=st=1599038144~exp=1599038744~acl=/i/videos/vod/cricket/ipl2018/18_02_2018/1609255/IPL_2013_M16_CSK_RCB_HLTS_1609255_,54,106,180,400,800,1300,2000,4500,_STAR.mp4.csmil/*~data=ip=01019abb8b20283d1641b14d126cc3209f03e29adbc5160e7e144ac4737e-userid=9a9d0279ae1961dab82177d73da53432b70af7ae56ffbf5aa916c15f8130494c~hmac=e803be4704df8dc7214c9973da0280673bf5ccaca4ed86b987da18701b47a2ec
+#EXTINF:0, prt1
+https://4fw4gd.cfeucdn.com/secip/91716/7ldBiIr79fCO61DeiIY7Rw/MjAzLjE4OC4yMjkuNDM=/1599598800/hls-vod-s08/flv/api/files/videos/2020/09/08/1599547511f0t0l.mp4.m3u8
+EXTINF:0, prt2
+https://f4h4he.cfeucdn.com/secip/91716/7ldBiIr79fCO61DeiIY7Rw/MjAzLjE4OC4yMjkuNDM=/1599598800/hls-vod-s03/flv/api/files/videos/2020/09/08/1599547513hmus2.mp4.m3u8
