@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1,9x Tashan
 rtsp://46.249.213.93/broadcast/9xmtashan-tablet.3gp
-#EXTINF:-1,asianet-middle-east-live/
-rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
-#EXTINF:-1,asianet-movies-live/
-rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
-#EXTINF:-1,asianet-news-live/
-rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia0.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1,GEM RİVER
+https://hssportsprepack.akamaized.net/videos/cricket/ipl2020/vod/1260041966/in/eng/v3/hls/plain/master.m3u8?hdnea=st=1600885031~exp=1600885631~acl=/videos/cricket/ipl2020/vod/1260041966/in/eng/v3/hls/plain/*~data=ip=02019abb8f36212b1c5db954199dbd41f46965236db046fe2a66b068bb-userid=ba3d679890ae72548ca49bb7b7363fd4e9bbe569198d0088708d952cbaacd6c8~hmac=71d1b1bdba8018580aa857cb9149cde4e089c361d65b2a1c9aabd3a048df2387
