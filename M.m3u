@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1,9t
 rtsp://46.249.213.93/broadcast/9xmtashan-tablet.3gp
-#EXTINF:-1,polly
-https://hssportsprepack.akamaized.net/videos/cricket/ipl2020/vod/1540002195/in/tam/v1/hls/plain/master.m3u8?hdnea=st=1600887245~exp=1600887845~acl=/videos/cricket/ipl2020/vod/1540002195/in/tam/v1/hls/plain/*~data=ip=02019abb8f36212b1c5db954199dbd41f46965236db046fe2a66b068bb-userid=ba3d679890ae72548ca49bb7b7363fd4e9bbe569198d0088708d952cbaacd6c8~hmac=ca617e1235736179f5495d0c6d39b0fd635e2aa7c44b013914fbb2335d8b15a0
+#EXTINF:-1,polly2
+https://serve151.r.worldssl.net/cricket/star1/chunks.m3u8
