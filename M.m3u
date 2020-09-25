@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,yk
+#EXTINF:-1,ykhsns
 rtsp://46.249.213.93/broadcast/9xmtashan-tablet.3gp
 #EXTINF:-1,polly2
 https://serve151.r.worldssl.net/cricket/star1/chunks.m3u8
-#EXTINF:-1,Csk Vs Dc
+#EXTINF:-1,ykhksvs
 https://fs2.bonsaiprolink.xyz/ipl/bonsaihd.m3u8
