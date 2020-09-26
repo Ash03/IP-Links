@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1,ykhsns
-rtsp://46.249.213.93/broadcast/9xmtashan-tablet.3gp
-#EXTINF:-1,polly2
-https://serve151.r.worldssl.net/cricket/star1/chunks.m3u8
-#EXTINF:-1,ykhksvs
+#EXTINF:-1,KKR VS SRH (SD)
+http://66.northerniptv.ca:8000/live/george/george123/201.m3u8
+#EXTINF:-1,KKR VS SRH (HD)
 https://fs2.bonsaiprolink.xyz/ipl/bonsaihd.m3u8
