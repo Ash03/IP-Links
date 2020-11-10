@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Pak vs Zim 2nd Odi
-https://t03.quest123.top:8088/mobile/stream3_320p/playlist.m3u8?id=11&pk=2cebfae685dc8f95505fecd5bba77f8e696da7c575726657c6e8c58d929d62a4
-#EXTINF:-1,KKR vs RR
-https://t03.quest123.top:8088/mobile/stream2_320p/playlist.m3u8?id=7&pk=2cebfae685dc8f95505fecd5bba77f8e696da7c575726657c6e8c58d929d62a4
+#EXTINF:-1,Final MI vs DC (480p)
+https://t02.quest123.top:8088/mobile/stream2_320p/playlist.m3u8?id=7&pk=bbe977c924de808586d81c52be77e5a71033fbea8db86c5eefdf15930ff24562
+#EXTINF:-1,Final MI vs DC (880p)
+https://ul.cdn946.net:8443/hls/2vcwg84v3c6ho.m3u8?s=2KGnxWldfkRUVChraL1OxA&e=1605036491
+#EXTINF:-1,Final MI vs DC (HD)
+https://vsd141.mycdn.me/hls/955847215849.m3u8/sig/LTMEOTSc15M/expires/1605101428281/srcIp/110.172.20.26/clientType/0/srcAg/CHROME_ANDROID/mid/2347840052969/video.m3u8?p
