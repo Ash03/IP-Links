@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,NZ V WI | 1st Test | Day 2
 https://n03.quest123.top:8088/live/webcricm02/playlist.m3u8?vidictid=186006036600&pk=f17a3d692a94b30dfacdd90a1aee09bd86d0d2b209afb1c1d59dd5c92ca00136&id=111058
+#EXTINF:-1,IND VS AUS | 1st T20
+https://sony247channels.akamaized.net/hls/live/2020591/TEN3HD/hdntl=exp=1607148236~acl=%2f*~id=1c70f374-8aeb-4892-8933-d8ea02682d25~data=hdntl~hmac=1e7fc270584671bf572d19160916ca4ea7d4e6f8c3cc40b9ce3c5df2fe066a3c/master_1300.m3u8|user-agent=SonyLIV
