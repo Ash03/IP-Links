@@ -1,10 +1,3 @@
 #EXTM3U
-#EXTINF:-1,NZ V WI | 1st Test | Day 2
-https://n03.quest123.top:8088/live/webcricm02/playlist.m3u8?vidictid=186006036600&pk=f17a3d692a94b30dfacdd90a1aee09bd86d0d2b209afb1c1d59dd5c92ca00136&id=111058
-#EXTINF:-1,IND VS AUS | 3rd T20
-#EXTINF:-1,IND V AUS | 1st T20 Highlights
+#EXTINF:-1,IND V AUS | 3rd T20 | Live
 https://sony247channels.akamaized.net/hls/live/2020591/TEN3HD/hdntl=exp=1607489200~acl=%2f*~id=aa135f6b-9e18-4259-b480-0c697d5329ed~data=hdntl~hmac=ee72d654d3cc068e4852aac17a0f2760bfa119b440756edd6c5bfce1c6b66896/master_1300.m3u8|user-agent=SonyLIV
-#EXTINF:-1,NZ V WI | 1st Test | Day 2 Highlights
-https://supersport-ssvod.azureedge.net/2019/CRI_031220_NZLVWIN_T1D2_HD13_500K.mp4.m3u8
-#EXTINF:-1,IND V AUS | 1st T20 Highlights
-https://supersport-ssvod.azureedge.net/2019/CRI_041220_AUSVIND_1T20_HD13_500K.mp4.m3u8
