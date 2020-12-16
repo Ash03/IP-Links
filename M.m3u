@@ -3,5 +3,5 @@
 https://t02.quest123.top:8088/mobile/stream1_320p/playlist.m3u8?vidictid=186073796770&pk=26d697480afbca47cc55bb8eb1bccb103b878c6a83698cb66a07f89b462046ce&id=3
 #EXTINF:-1,NZ V WI | 2nd Test | Day 1 Highlights
 https://supersport-ssvod.azureedge.net/2019/CRI_101220_NZLVWIN_T2D1_HD13_500K.mp4.m3u8
-#EXTINF:-1,BBL
-https://sonydai.akamaized.net/hls/live/2022319/DAI15ME/master.m3u8?hdnea=st=1608106841~exp=1608107141~acl=*~id=21fe03e6-0fec-4805-a24e-c2cfec9a5ac2~hmac=7dc2ced07911ab338edeedfd683cf9175b3b0b1f4d62b04f9cf3b38ac2e28c69&originpath=/linear/hls/pb/event/RyaJXCy0S621_J19LJC-aA/stream/6c57f776-2755-46b4-980c-29d287b672b6:SIN2/master.m3u8
+#EXTINF:-1,PRS V MLS | BBL 10 | LIVE
+https://sonydai.akamaized.net/hls/live/2022319/DAI15ME/master.m3u8?hdnea=st=1608107068~exp=1608107368~acl=*~id=405ffbb3-09db-427c-a770-8af18884b29f~hmac=bb13f4ed7994fcd0041e301cc7f2624e6525f8321c90ef00f780774b5e16da1d&originpath=/linear/hls/pb/event/RyaJXCy0S621_J19LJC-aA/stream/ef167c2c-f640-438b-ab02-97b1a635ac95:SIN2/master.m3u8
