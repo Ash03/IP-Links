@@ -7,5 +7,5 @@ https://supersport-ssvod.azureedge.net/2019/CRI_101220_NZLVWIN_T2D1_HD13_500K.mp
 https://sonydai.akamaized.net/hls/live/2022319/DAI15ME/master.m3u8?hdnea=st=1608107068~exp=1608107368~acl=*~id=405ffbb3-09db-427c-a770-8af18884b29f~hmac=bb13f4ed7994fcd0041e301cc7f2624e6525f8321c90ef00f780774b5e16da1d&originpath=/linear/hls/pb/event/RyaJXCy0S621_J19LJC-aA/stream/ef167c2c-f640-438b-ab02-97b1a635ac95:SIN2/master.m3u8
 #EXTINF:-1,Ind V Aus | 1st Test
 https://sony247channels.akamaized.net/hls/live/2020591/TEN3HD/hdntl=exp=1608258447~acl=%2f*~id=348c6637-fdc8-47e5-b395-96edcde64909~data=hdntl~hmac=3939fc056be20860ec8ba55c0e35e1ca9c692ba2b7398d97dee0524e78eca628/master_1300.m3u8|User-Agent: "SonyLIV"
-#EXTINF:-1,NZ vs PAK | 2nd T20 | Live
-https://n01.quest123.top:8088/live/webcricm02/playlist.m3u8?id=111058&pk=a86ffa703aede7e7f52691f2dd46150274f68473035e8f8825e529921eb7bc59
+#EXTINF:-1,NZ vs PAK | 3rd T20 | Live
+https://t03.quest123.top:8088/mobile/stream1_320p/playlist.m3u8?id=3&pk=a2342cbf35d73daa0156054d395820ac11231b859dff661ac63c42d28146faff
