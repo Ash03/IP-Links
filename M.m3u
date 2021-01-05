@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Super Crt | Live
 https://e4.stephn.xyz/ingest09/33428.m3u8?sf=MzFwczEwU2JE&token=mpriKjYLuu2SadXGOQ-t7g&expires=1609702486&rnd=
+#EXTINF:-1,Su | Live
+https://live08.hotstar.com/hls/live/2004260/savssl2020/eng/1540004213/15mindvrm01df7851b0a96b408ea31a8305e8cf321b05january2021/master.m3u8?a=ns&hdnea=st=1609833094~exp=1609833694~acl=/hls/live/2004260/savssl2020/eng/1540004213/15mindvrm01df7851b0a96b408ea31a8305e8cf321b05january2021/*~data=ip=01019abb8b20283d1641b14d13651bd6f5807d43e2fb2ff1c9e7425f5d1b-userid=d10f721884f1253472f8f7cc9158f83843baddb7f995885a0254ebe1d6f9c7d2~hmac=3a35faae597d85f4645fcea3ff342427d410938da9ad82d7d2a3a450e9d04aaf|user-agent=Hotstar;in.startv.hotstar/9.9.9.757 (Android/6.0.1)
