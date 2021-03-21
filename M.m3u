@@ -7,7 +7,7 @@ https://dai.google.com/linear/hls/pb/event/yTTVgdt-T8Kuz3KV_sMXRQ/stream/2734597
 https://dai.google.com/linear/hls/pb/event/yTTVgdt-T8Kuz3KV_sMXRQ/stream/27345973-a661-4ea9-8d15-33fe7ddda416:SIN/variant/751ee1f1d7279d6f05417c1d195fa0f0/bandwidth/1076240.m3u8
 #EXTINF:-1, Ind.L vs Sl.L | SD
 https://dai.google.com/linear/hls/pb/event/yTTVgdt-T8Kuz3KV_sMXRQ/stream/27345973-a661-4ea9-8d15-33fe7ddda416:SIN/variant/3024570808a812f418fa2424fd04eeb6/bandwidth/887920.m3u8
-#EXTINF:-1, Ind.L vs Sl.L | Changing
+#EXTINF:-1, Ind.L vs Sl.L | Adaptive
 https://dai.google.com/linear/hls/pb/event/yTTVgdt-T8Kuz3KV_sMXRQ/stream/6f72096c-799a-44f6-8dbc-96247bbdda59:SIN2/master.m3u8
 #EXTINF:-1, Ind.L vs Sl.L | 720p
 https://dai.google.com/linear/hls/pb/event/yTTVgdt-T8Kuz3KV_sMXRQ/stream/6f72096c-799a-44f6-8dbc-96247bbdda59:SIN2/variant/2529158a3037d6ced2e256dd14f75b52/bandwidth/1817200.m3u8
