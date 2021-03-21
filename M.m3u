@@ -3,7 +3,7 @@
 https://dai.google.com/linear/hls/pb/event/yTTVgdt-T8Kuz3KV_sMXRQ/stream/27345973-a661-4ea9-8d15-33fe7ddda416:SIN/variant/91ae9360447714d28f45f4041797d4cf/bandwidth/1817200.m3u8
 #EXTINF:-1, Ind.L vs Sl.L | HD
 https://dai.google.com/linear/hls/pb/event/yTTVgdt-T8Kuz3KV_sMXRQ/stream/27345973-a661-4ea9-8d15-33fe7ddda416:SIN/variant/91ae9360447714d28f45f4041797d4cf/bandwidth/1817200.m3u8
-#EXTINF:-1, Ind.L vs Sl.L | HSD
+#EXTINF:-1, Ind.L vs Sl.L | SD1
 https://dai.google.com/linear/hls/pb/event/yTTVgdt-T8Kuz3KV_sMXRQ/stream/27345973-a661-4ea9-8d15-33fe7ddda416:SIN/variant/751ee1f1d7279d6f05417c1d195fa0f0/bandwidth/1076240.m3u8
 #EXTINF:-1, Ind.L vs Sl.L | SD
 https://dai.google.com/linear/hls/pb/event/yTTVgdt-T8Kuz3KV_sMXRQ/stream/27345973-a661-4ea9-8d15-33fe7ddda416:SIN/variant/3024570808a812f418fa2424fd04eeb6/bandwidth/887920.m3u8
@@ -11,5 +11,7 @@ https://dai.google.com/linear/hls/pb/event/yTTVgdt-T8Kuz3KV_sMXRQ/stream/2734597
 https://dai.google.com/linear/hls/pb/event/yTTVgdt-T8Kuz3KV_sMXRQ/stream/6f72096c-799a-44f6-8dbc-96247bbdda59:SIN2/master.m3u8
 #EXTINF:-1, Ind.L vs Sl.L | 720p
 https://dai.google.com/linear/hls/pb/event/yTTVgdt-T8Kuz3KV_sMXRQ/stream/6f72096c-799a-44f6-8dbc-96247bbdda59:SIN2/variant/2529158a3037d6ced2e256dd14f75b52/bandwidth/1817200.m3u8
-#EXTINF:-1, Wi vs Sl | 1st Test | Day 1
+#EXTINF:-1, Wi vs Sl | 1st Test | Day 1 | SD1
 https://orthetrum.boxcast.com/robust-skimmer/imah6jkxcxvrz16hd35t/480p-byteranges-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vcnRoZXRydW0uYm94Y2FzdC5jb20vcm9idXN0LXNraW1tZXIvaW1haDZqa3hjeHZyejE2aGQzNXQvNDgwcC1ieXRlcmFuZ2VzLWV4dC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE2NDQ5NTc5fX19XX0_&Signature=PF8BE7~0f7OHVSzZ2FL0TfR1CKWZGNFraQnHjN2Uf7hjl2Df-C5GmuRavXXKoxkXEaj2k8ZjH5GBszbnlFCA6uLi1yykqbHOlVUBeEmvRN3R0TeajJYn7X99GcoK7LcPDKDtvl33RlB51t84~hg3XLkYgz5tcJYCTfQ96XeHcVN1SGjuP6nUbLN4lJlq5zH4w8q~Uoz5oiyiEgi28dalQqMc5NCSHqfLoOjmposi54vJafeY878bscw72L59m7EgAPs5wNWsQFn3DMZrX669lCAb0x1xA431lYjeF2OarGUXCWjO5pY3QoCoAbbV5DqzvQqC~swYjOXv66ANvGeZDA__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
+#EXTINF:-1, Wi vs Sl | 1st Test | Day 1 | SD
+https://t03.quest123.top:8088/mobile/stream1_320p/playlist.m3u8?vidictid=187074833852&pk=9e24f6781d2f06c3e986b10365c349a78975aa4e08a98105e9c9a9f4c857011e&id=3
