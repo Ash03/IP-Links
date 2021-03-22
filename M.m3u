@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1, High
 https://hssportsprepack.akamaized.net:443/videos/cricket/indvseng2021/vod/1260056669/in/hin/v2/hls/plain/media-3/index.m3u8|User-Agent=Hotstar;in.startv.hotstar/9.9.9.757 (Android/6.0.1)
-#EXTINF:-1, High4
-https://hshlsnews1-i.akamaihd.net:443/hls/live/571520-b/abphindi/masterHotstar_964.m3u8?hdnea=st=1616393077~exp=1616393677~acl=/hls/live/571520-b/abphindi/*~data=ip=02019abb8f36212b1c5db9511ae57fa64a3809a65d4c31d776365d6c10-userid=ba3d679890ae72548ca49bb7b7363fd4e9bbe569198d0088708d952cbaacd6c8~hmac=5e8d6f2addf7aedcec474ee0310f3d063b48ce7bf3d32e17e783d59ae31de0a3|User-Agent=Hotstar;in.startv.hotstar/9.9.9.757 (Android/6.0.1)
+#EXTINF:-1, High89
+https://live09.akt.hotstar-cdn.net/mp2/pl2019-20/3b76e60ba6e340859738ff855f879891/index.m3u8?hdnea=st=1616393409~exp=1616394009~acl=/mp2/pl2019-20/3b76e60ba6e340859738ff855f879891/*~data=ip=02019abb8f36212b1c5db9511ae57fa64a3809a65d4c31d776365d6c10-userid=ba3d679890ae72548ca49bb7b7363fd4e9bbe569198d0088708d952cbaacd6c8~hmac=430732178c885d34c18a7f27257e09183457de390f9348163c5c0b92a8b11288|User-Agent=Hotstar;in.startv.hotstar/9.9.9.757 (Android/6.0.1)
