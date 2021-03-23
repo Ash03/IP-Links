@@ -7,3 +7,5 @@ https://prod-fastly-eu-central-1.video.periscope.tv/Transcoding/v1/hls/kLW2JhfbJ
 https://t02.quest123.top:8088/mobile/stream2_320p/playlist.m3u8?vidictid=187097084335&pk=08c754ca8ce2a51c1d10eb90c07218030f13d6f8da5b2e0a41da17a516f579f1&id=7
 #EXTINF:-1, IND vs ENG | 1st ODI | Stable
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/PUjl1jgn4EUd8lkwbdsXLD2BgTGTVu33uqvNd3V82psfTGPYewKR7U7MEHebGL4qG8YulND2vGSLpgFPtyYhpg/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/dynamic_hlsproducer.m3u8?type=live
+#EXTINF:-1, IND vs ENG | 1st ODI | womes match
+https://live07.hotstar.com/hls/live/2009188/indsawomen2021/hin/1540005757/15mindvrm012a869a576a994852a49a7e17649dbf2d23march2021/master.m3u8?a=ns&hdnea=st=1616505604~exp=1616506204~acl=/hls/live/2009188/indsawomen2021/hin/1540005757/15mindvrm012a869a576a994852a49a7e17649dbf2d23march2021/*~data=ip=01019abb8b20283d1641b14d1b6f54e7371643fe77c1981606807ef26f96f6-userid=4ef01d774f5d7f687f18ff91d502765df3830fd87167d1fb20cedace0399efe3~hmac=70a817121805375ae2567f1af9507899fd00f7724b850fe443ee4718796ae73b|User-Agent=Hotstar;in.startv.hotstar/9.9.9.757 (Android/6.0.1)
