@@ -1,13 +1,1 @@
-#EXTM3U
-#EXTINF:-1, IND vs ENG | 1st ODI | Hin-480p
-https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/x6ugmLH7dkXp9dIplS-H0aAO-xs7somcZzNSQ8AEeWmak39Ap9SzCSMB6SpwykMWXhnDH11nNDzHBD7Ac2hiRg/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1, IND vs ENG | 1st ODI | Test
-https://prod-fastly-eu-central-1.video.periscope.tv/Transcoding/v1/hls/kLW2JhfbJDwqdIrobq0x4Qw6bi_nVPbvjlRvhySMhzheBCcPN83rwD4IzWKDIJ9thhWa4x_VX4FHs6uY8ah7ZA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live@live_cricketmatch
-#EXTINF:-1, IND vs ENG | 1st ODI | Eng-640p
-https://t02.quest123.top:8088/mobile/stream2_320p/playlist.m3u8?vidictid=187097084335&pk=08c754ca8ce2a51c1d10eb90c07218030f13d6f8da5b2e0a41da17a516f579f1&id=7
-#EXTINF:-1, IND vs ENG | 1st ODI | Stable
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/PUjl1jgn4EUd8lkwbdsXLD2BgTGTVu33uqvNd3V82psfTGPYewKR7U7MEHebGL4qG8YulND2vGSLpgFPtyYhpg/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/dynamic_hlsproducer.m3u8?type=live
-#EXTINF:-1, IND vs ENG | 1st ODI | womes match
-https://live07.hotstar.com/hls/live/2009188/indsawomen2021/hin/1540005757/15mindvrm012a869a576a994852a49a7e17649dbf2d23march2021/master.m3u8?a=ns&hdnea=st=1616505604~exp=1616506204~acl=/hls/live/2009188/indsawomen2021/hin/1540005757/15mindvrm012a869a576a994852a49a7e17649dbf2d23march2021/*~data=ip=01019abb8b20283d1641b14d1b6f54e7371643fe77c1981606807ef26f96f6-userid=4ef01d774f5d7f687f18ff91d502765df3830fd87167d1fb20cedace0399efe3~hmac=70a817121805375ae2567f1af9507899fd00f7724b850fe443ee4718796ae73b|User-Agent=Hotstar;in.startv.hotstar/9.9.9.757 (Android/6.0.1)
-#EXTINF:-1, IND vs ENG | 1st ODI | womes matchYyyyyy
-https://live12p.hotstar.com/hls/live/2024725/indvseng2021/hin/1540005713/15mindvrm0144b3f2c07d8e48378711ce2a4599ed8423march2021/master.m3u8?a=ns&hdnea=st=1616514866~exp=1616515466~data=ip%3d01019abb8b20283d1641b14d1b6f54e7371643fe77c1981606807ef26f96f6-userid%3df397c31d5f5a00996a8eedfb2d241d82c4476889ae61011604270e17ecda4c21~hmac=4c5077fd53f3aaf8d4436f0a3552f66c87d04df054255b5c6ea412554e4fd1fc&ttl=420&type=paid|User-Agent=Hotstar;in.startv.hotstar/9.9.9.757 (Android/6.0.1)
+
