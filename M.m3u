@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1, IND vs ENG | 2nd ODI | Hotstar
-https://live12p.hotstar.com/hls/live/2024726/indvseng2021/hin/1540005716/15mindvrm0149d19245b0d54507982589f0bc8509ab26march2021/master.m3u8?a=ns&hdnea=st=1616741257~exp=1616741857~acl=/hls/live/2024726/indvseng2021/hin/1540005716/15mindvrm0149d19245b0d54507982589f0bc8509ab26march2021/*~hmac=32a59c9419d9deb805616b9ba076667b7cdc3f5929d03f62259f865413f709fc|User-Agent=Hotstar;in.startv.hotstar/9.9.9.757 (Android/6.0.1)
+#EXTINF:-1, IND vs ENG | 2nd ODI | DD Sports
+http://185.71.64.167:80/live/fjzRh16iWA/EODnFc43pl/83673.m3u8
+#EXTINF:-1, IND vs ENG | 2nd ODI | 720p
+https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/LDBeMwhLSNoPbXMpZP2S-NJBJVbMe5mC5cWxeI2pkrNy4041cZ9bEmrZTN06iGdYYQsZ3GXas_WQUYjMMQ1pzg/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
+#EXTINF:-1, IND vs ENG | 2nd ODI | 480p
+https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/LDBeMwhLSNoPbXMpZP2S-NJBJVbMe5mC5cWxeI2pkrNy4041cZ9bEmrZTN06iGdYYQsZ3GXas_WQUYjMMQ1pzg/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8
+#EXTINF:-1, IND vs ENG | 2nd ODI | SkySports 360p
+http://219.sportskeeda.cc:8080/hls/vJ9lsiZFOE20190929.m3u8?hlsendtime=1616748480&hlsstarttime=0&hlshash=u1pFdVX639lgh3Df2svvJ0tOFXHbrh0W-5OL3Nz_CFo=
+#EXTINF:-1, IND vs ENG | 2nd ODI | SuperSports 360p
+https://t01.quest123.top:8088/mobile/stream2_320p/playlist.m3u8?vidictid=187127918479&pk=2ea1b6d1b5c1e4df6d1cb2d9ecb2823562791047d59cd6a186f4ee3bdec4dd6a&id=7
