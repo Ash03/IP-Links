@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1, IND vs ENG | 2nd ODI | DD Sports
-http://185.71.64.167:80/live/fjzRh16iWA/EODnFc43pl/83673.m3u8
-#EXTINF:-1, IND vs ENG | 2nd ODI | 720p
-https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/LDBeMwhLSNoPbXMpZP2S-NJBJVbMe5mC5cWxeI2pkrNy4041cZ9bEmrZTN06iGdYYQsZ3GXas_WQUYjMMQ1pzg/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
 #EXTINF:-1, IND vs ENG | 2nd ODI | 480p
-https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/LDBeMwhLSNoPbXMpZP2S-NJBJVbMe5mC5cWxeI2pkrNy4041cZ9bEmrZTN06iGdYYQsZ3GXas_WQUYjMMQ1pzg/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8
-#EXTINF:-1, IND vs ENG | 2nd ODI | SkySports 360p
-http://219.sportskeeda.cc:8080/hls/vJ9lsiZFOE20190929.m3u8?hlsendtime=1616748480&hlsstarttime=0&hlshash=u1pFdVX639lgh3Df2svvJ0tOFXHbrh0W-5OL3Nz_CFo=
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/w1o9Rjt-BAW3ip55vRXbOzl7alluwPzdpgoeA59PgBDucdXKEImzlG60HljNsr5vP2VJWPNEJqV-JMzTVu9ZGQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live@live_cricketmatch
 #EXTINF:-1, IND vs ENG | 2nd ODI | SuperSports 360p
 https://t01.quest123.top:8088/mobile/stream2_320p/playlist.m3u8?vidictid=187127918479&pk=2ea1b6d1b5c1e4df6d1cb2d9ecb2823562791047d59cd6a186f4ee3bdec4dd6a&id=7
