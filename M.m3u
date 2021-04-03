@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, SS1
 https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/zjnfztb7zkojf.m3u8?s=rciengs-CIKcKMZRNloK1g&e=1617458235
+#EXTINF:-1, SS2
+http://89.187.189.58/1/tracks-v1a1/mono.m3u8
