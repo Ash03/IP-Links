@@ -1,14 +1,1 @@
-#EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="Change" tvg-logo="A.jpg" group-title="Hotstar",Change
-123.com
-#EXTM3U
-#EXTINF:-1, SkySports Cricket (704 X 396)
-http://89.187.189.58/2/tracks-v1a1/mono.m3u8
-#EXTINF:-1, PTV Sports (360p)
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
-#EXTINF:-1, StarSports 1 (720p)
-https://a24m9h4369execu7.ezcdn383.net:8443/hls/zjnfztb7zkojf.m3u8?s=XH8sW49gKJhWCVc7379zzg&e=1617539174
-#EXTINF:-1, SkySports (360p)
-https://t02.quest123.top:8088/mobile/stream2_320p/playlist.m3u8?vidictid=187211945145&id=7&pk=e2bb242805efa49eaabd1388fc47d76d0797b9c828d7cd909cfb9f84d758e1ec
-#EXTINF:-1 tvg-ID="" tvg-name="2599" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/362387494f6be6613daea643a7706a428xm.jpg" group-title="Bhabhiji Ghar pe Hai",2599
-https://zee5vodnd.akamaized.net/hls1/elemental/hls/ON_AIR/DOMESTIC/AND_TV/March2020/26032020/Seamless/Rev_Bhabi_Ji_Ghar_Par_Hai_Ep1325_Seamless_26032020_hi_de84c460e138ea3c7cb64c4b4639cf74/index.m3u8?hdnea=st=1590421439~exp=1590424439~acl=/*~hmac=d3bc8c3ed6b302dd3aa97ced2db23fef6784cbf144220f9bf8c14ddadcb88d31
+
