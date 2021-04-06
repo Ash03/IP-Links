@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="Adaptive"  group-title="Hotstar.com", Adaptive
+#EXTINF:-1 tvg-ID="" tvg-name="Change" tvg-logo="A.jpg" group-title="Hotstar",Change
 123.com
 #EXTINF:-1, SkySports Cricket (704 X 396)
 http://89.187.189.58/2/tracks-v1a1/mono.m3u8
