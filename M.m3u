@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Highlights
-https://hssportsprepack.akamaized.net/videos/cricket/sapak2021/vod/1540006037/in/eng/v1/hls/plain/master.m3u8?hdnea=st=1617722236~exp=1617722836~acl=/videos/cricket/sapak2021/vod/1540006037/in/eng/v1/hls/plain/*~data=ip=02019abb8f36212b1c5dbf5a055cb3df17c05f2deee40377f62c7465-userid=b658da7d132c846ec9b5511a25a2a601350691a852925d34f59c624808399336-~hmac=42688852efdc51a2f6aa5dd071674bbda3079f5c0e321138ff2d2f5e96caaa10|user-agent=Hotstar;in.startv.hotstar/9.9.9.757 (Android/6.0.1)
-#EXTINF:-1, A
-M.com
+#EXTINF:-1, SkySports
+https://t02.quest123.top:8088/mobile/stream2_320p/playlist.m3u8?vidictid=187245751683&id=7&pk=1011e852e11440789a9915c02ac041d235abde10e12e41493f8c149fb8b351dd
+#EXTINF:-1, PtvSports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+#EXTINF:-1, SS1
+https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/zjnfztb7zkojf.m3u8?s=xBP9L3f9wNSTFiFSOS6U1A&e=1617803690
+#EXTINF:-1, H
+https://live07.hotstar.com/hls/live/2007479/sapak2021/eng/1540006038/15mindvrm014ffe7be4c64b4792875e46fe4e76247c07april2021/master.m3u8?a=ns&hdnea=st=1617782247~exp=1617782847~data=ip%3d9DxZsl8LdK6pBn0P16fCC9-userid%3dq6f5GX60P9XyrmGVz0x7lWZfg0afkwQQvQFBnYZt4buk-did%3ddgXV7xSZjYZcPIhqj4vuLOkMSgP9dCfaK40M6tqoIj8QQmgwCQWuZPG-~hmac=4f99bb9c28112ef02416fd91f90231d622221b34eedf2e0bf8fe06949c246306&ttl=86400&type=paid|user-agent=Hotstar;in.startv.hotstar/9.9.9.757 (Android/6.0.1)
