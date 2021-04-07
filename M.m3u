@@ -1,9 +1,1 @@
-#EXTM3U
-#EXTINF:-1, SkySports
-https://t02.quest123.top:8088/mobile/stream2_320p/playlist.m3u8?vidictid=187245751683&id=7&pk=1011e852e11440789a9915c02ac041d235abde10e12e41493f8c149fb8b351dd
-#EXTINF:-1, PtvSports
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:-1, SS1
-https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/zjnfztb7zkojf.m3u8?s=xBP9L3f9wNSTFiFSOS6U1A&e=1617803690
-#EXTINF:-1, Pak win
-https://live07.hotstar.com/hls/live/2007478/sapak2021/eng/1540006038/15mindvrm014ffe7be4c64b4792875e46fe4e76247c07april2021/master.m3u8?a=ns&b-in-range=50-300&hdnea=st=1617807014~exp=1617807614~data=ip%3d9DxZsl8LdK6pBn0P16fCC9-userid%3dq6f5GX60P9XyrmGVz0x7lWZfg0afkwQQvQFBnYZt4buk-did%3ddgXV7xSZjYZcPIhqj4vuLOkMSgP9dCfaK40M6tqoIj8QQmgwCQWuZPG-~hmac=efcdbec2c43d6a868081e5d70a09c19684fa6fcb0ed36cfc1fc834e71c2cb622&ttl=86400&type=paid|user-agent=Hotstar;in.startv.hotstar/9.9.9.757 (Android/6.0.1)
+
