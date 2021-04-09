@@ -1,1 +1,9 @@
-
+#EXTM3U
+#EXTINF:-1, SSH 
+https://dt1q9ova10xfm.cloudfront.net/SSPORTS1H.m3u8?token=RED_ZDU52vDk96UD32Jv2WHSvg==,1617690793.2635379685
+#EXTINF:-1, SSE CN
+http://209.126.120.153/hls/chss1.m3u8
+#EXTINF:-1, SSE HD
+https://xxu9stabazy3thh7.ezcdn483.net:8443/hls/zjnfztb7zkojf.m3u8?s=nyuRmueJIlUSCHLLpE3CoA&e=1617976365
+#EXTINF:-1, SSH HD
+https://xxu9stabazy3thh7.ezcdn483.net:8443/hls/18t8pp8.m3u8?s=BppgToNAitUuFp8O6qbAYw&e=1617976535
