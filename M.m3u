@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Test12y
-https://zee5vodnd.akamaized.net/hls1/elemental/hls/TV_SHOWS/ZEE_MARATHI/May2021/25052021/Seamless/BQC_Devmanus_CS_Ep230_Seamless_25052021_mr_ca60709bb5ec3450686756a57040f40d/index.m3u8?hdnea=st=1621963826~exp=1621967546~acl=/hls1/elemental/hls/TV_SHOWS/ZEE_MARATHI/May2021/25052021/Seamless/BQC_Devmanus_CS_Ep230_Seamless_25052021_mr_ca60709bb5ec3450686756a57040f40d/index.m3u8*~hmac=4606a449a8f3cfdec7bd79e3f9015ed3b96d39e4daa700b34235373db730c926
+#EXTINF:-1, Test12
+https://sonydai.akamaized.net/hls/live/2018457/DAI9ME/master.m3u8?hdnea=exp=1622669817~acl=/*~id=65259229092540354094979228409155~hmac=87d6dbcbb421b65c7dd379b57167d1b73b046f376b759eca1058ca7663a9c936|user-agent=SONYLIV
