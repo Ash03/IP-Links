@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Test10m
-https://sonydai.akamaized.net/hls/live/2018457/DAI9ME/master.m3u8?hdnea=exp=1622928574~acl=/*~id=190827161294083809~hmac=3cab4740d543764c29668b99425cd5bbdb870021d59d21c231adf731818106f3&originpath=/linear/hls/pb/event/cihN52epToSN20WqT8yygA/stream/2ef662ed-a4b8-4481-85fb-99a99461f0f0:SIN/master.m3u8
+#EXTINF:-1,+
+https://sonydai.akamaized.net/hls/live/2018457/DAI9ME/master.m3u8?hdnea=exp=1623031180~acl=/*~id=46315170906094114706593855593666~hmac=c10b5954349058d1b041549b81ece892e160157c0381f1afd6229fc7ebe2c4c7|User-Agent=SONYLIV
