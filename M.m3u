@@ -1,22 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Psl
-https://live12p.hotstar.com/hls/live/2024726/icc-wtc-2021/hin/1540007140/15mindvrm014679246591934cc48143c9657f76d4e119june2021/master.m3u8?a=ns&hdnea=st=1624094552~exp=1624095152~data=ip%3dmCEKzPAZr96jYIv891pqKn-userid%3dvRZDlGb5E2YK0sxVid1kpjSiAdWmydlS1I4LgzkwOiQJ-did%3dusgn7naS7kPxjfhgVGP8mvhDMQ9QDGjZNO3ehjJVtcyfFMIzoKCW1ZX-~hmac=50d0639e2a45ca614519e5223414985ed19d69dff6b3cc435f1020f9660d7ed4&ttl=86400&type=paid|User-Agent=Hotstar;in.startv.hotstar/9.9.9.757 (Android/6.0.1)
-#EXTM3U
 #EXTINF:-1, SSE (Buffer-no-voice)
 http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-1, SSH 
 http://89.187.182.212/PPVCrick1-H/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SSE (Mid-Quality)
-https://rootercwpoc.akamaized.net/hls/d871e9c4bf81d0bf559a70706f10d739/mid.m3u8
-#EXTINF:-1, SSE (Low-Quality)
-https://rootercwpoc.akamaized.net/hls/d871e9c4bf81d0bf559a70706f10d739/low.m3u8
-#EXTINF:-1, SSH (Mid-Quality)
-https://rootercwpoc.akamaized.net/hls/39650b038b131c41869dc57eaa760d36/mid.m3u8
-#EXTINF:-1, SSH (Low-Quality)
-https://rootercwpoc.akamaized.net/hls/39650b038b131c41869dc57eaa760d36/low.m3u8
 #EXTINF:-1, SS 480 Best
 https://t02.quest123.top:8088/mobile/stream3_320p/playlist.m3u8?vidictid=187972350336&id=11&pk=ecfd58f34fb1c2804763ac7334937e933944cda5fd14059c5504dcfd8078058d
 #EXTINF:-1, SSH 360
 https://dx9dkszwgj.azcdn107.net:8443/hls/zjnfztb7zkojf.m3u8?s=d-2T8YVtr3GotQmEykOaSg&e=1624118764
-#EXTINF:-1, Live M 
-https://sshindi-i.akamaihd.net/hls/live/569801-b/sshindi/fairplay/master.m3u8?hdnea=st=1624097499~exp=1624098099~data=ip%3dTIxJCEHVFxOLRuNt07xEpzha5Ty4FkxRpIGkniVtOhtHThEX2ve7Owb-userid%3dksuidVZrvuUVV3yipT1YqLznTcGqGa8qppsPtRooDtBl-did%3dwQDDpYdcwYPCm7nfeRV1RT-~hmac=b3afce1218ddfdd615a654b7c4485cb5249f7900a5d02dff0621128420275e2a&ttl=86400&type=paid|User-Agent=Hotstar;in.startv.hotstar/9.9.9.757 (Android/6.0.1)
