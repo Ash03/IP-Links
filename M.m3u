@@ -7,5 +7,5 @@ http://89.187.182.212/PPVCrick1-H/tracks-v1a1/mono.m3u8
 http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-1, SS Best
 https://t05.quest123.top:8088/mobile/stream3_320p/playlist.m3u8?vidictid=187982268775&id=11&pk=aef3fa3a7a5364317f2d2776a03369ff39a4b15444bc1dc33c053efe4bd18336
-EXTINF:-1, SS FHD
+#EXTINF:-1, SS FHD
 http://143.244.60.74/SkySportsCricket/tracks-v1a1/mono.m3u8?token=
