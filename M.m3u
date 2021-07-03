@@ -7,3 +7,5 @@ https://t02.quest123.top:8088/mobile/stream4_320p/playlist.m3u8?vidictid=1881177
 http://198.144.149.199:8888/SUPER_SPORTS_CRICKET/tracks-v1a1/mono.m3u8?token=f97a8bc421b4cfa7445a6a6b1429d8d1
 #EXTINF:-1, WI vs SA | Supersports | FHD | Same | Backup
 http://198.144.149.199:8888/SUPER_SPORTS_CRICKET/tracks-v1a1/mono.m3u8?token=rk
+#EXTINF:-1, WI vs SA | Willow Cricket | SD
+http://89.41.180.253:8080/CBN_Cricket/tracks-v1a1/mono.m3u8?token=rk
