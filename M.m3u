@@ -1,3 +1,7 @@
-#EXTM3U
-#EXTINF:-1, Eng vs Sl | 1st ODI | Live | Streaming
-https://sonydai.akamaized.net/hls/live/2022316/DAI12ME/master.m3u8?hdnea=exp=1624975567~acl=/*~id=16ac2493faf5e9c2~hmac=2891987c1b9a90148db513f2a7ba1cc4d0b57b65a530ee11a8ecd1048e0f108d|User-Agent=SonyLIV
+EXTM3U
+#EXTINF:-1, WI vs SA | BT Sports
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1, WI vs SA | Supersports
+https://t02.quest123.top:8088/mobile/stream4_320p/playlist.m3u8?vidictid=188117744126&id=15&pk=1850f04d2cb397d143f87128dbc160a1302cf04fe981f2455e5a7acd177d1ee9
+#EXTINF:-1, WI vs SA |
+http://smartsw.xyz:8080/VSofFxqv3h/6qbwPagRWa/107109
