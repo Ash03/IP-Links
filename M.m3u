@@ -3,5 +3,7 @@ EXTM3U
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1, WI vs SA | Supersports
 https://t02.quest123.top:8088/mobile/stream4_320p/playlist.m3u8?vidictid=188117744126&id=15&pk=1850f04d2cb397d143f87128dbc160a1302cf04fe981f2455e5a7acd177d1ee9
-#EXTINF:-1, WI vs SA |
-http://smartsw.xyz:8080/VSofFxqv3h/6qbwPagRWa/107109
+#EXTINF:-1, WI vs SA | Supersports | FHD
+http://198.144.149.199:8888/SUPER_SPORTS_CRICKET/tracks-v1a1/mono.m3u8?token=f97a8bc421b4cfa7445a6a6b1429d8d1
+#EXTINF:-1, WI vs SA | Supersports | FHD | Same | Backup
+http://198.144.149.199:8888/SUPER_SPORTS_CRICKET/tracks-v1a1/mono.m3u8?token=rk
