@@ -3,5 +3,5 @@
 https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8|User-Agent=SonyLIV
 #EXTINF:-1, ENG vs SL | Sky Sports
 https://t02.quest123.top:8088/mobile/stream1_320p/playlist.m3u8?vidictid=188121083378&id=3&pk=68931f0c7b751a762a92c6203edc94bb39e000af3e3ae40b3d7e81d42951f044
-#EXTINF:-1, ENG vs SL | Sonyliv
-https://sonydai.akamaized.net/hls/live/2022316/DAI12ME/master.m3u8?hdnea=exp=1625393494~acl=/*~id=df969d7a8a9a651e~hmac=2cf5de3641f58b3985d5d36904f4132d6ac4e490200c558f099ef15b43e1eee8
+#EXTINF:-1, ENG vs SL | SonyLiv
+https://sonydai.akamaized.net/hls/live/2022316/DAI12ME/master.m3u8?hdnea=exp=1625393494~acl=/*~id=df969d7a8a9a651e~hmac=2cf5de3641f58b3985d5d36904f4132d6ac4e490200c558f099ef15b43e1eee8|User-Agent=SonyLIV
