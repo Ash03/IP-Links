@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1, ENG vs SL | Sony Six
-https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8|User-Agent=SonyLIV
-#EXTINF:-1, ENG vs SL | Sky Sports
-https://t02.quest123.top:8088/mobile/stream1_320p/playlist.m3u8?vidictid=188121083378&id=3&pk=68931f0c7b751a762a92c6203edc94bb39e000af3e3ae40b3d7e81d42951f044
 #EXTINF:-1, 1
-https://sonydai.akamaized.net/hls/live/2022316/DAI12ME/master.m3u8?hdnea=exp=1625395012~acl=/*~id=95770e7169abb472-190911065097719026~hmac=ae94721ca6b9a0c0ff10c2a0be525d35a842973ca5cff95a29ce5db306e62435|User-Agent=SonyLIV
+http://91.194.110.19:8080/WILLOW_HD/index.m3u8?token=6f95b9800d83186fdbd5e8ee835f695c
