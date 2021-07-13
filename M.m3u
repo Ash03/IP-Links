@@ -1,3 +1,2 @@
-#EXTM3U
-#EXTINF:-1, WI vs AUS
-https://t03.quest123.top:8088/mobile/stream2_320p/playlist.m3u8?vidictid=188207161221&id=7&pk=230492f092e3108329b4c7c52055761e129dc79bcfb82b681b5ea7766fca5c7c
+#EXTINF:-1, 1
+https://sonydai.akamaized.net/hls/live/2018457/DAI9ME/master.m3u8?hdnea=exp=1626183181~acl=/*~id=37c65cbaedeb4251b9eb6999429dbe5e-1606137958152-0160408165847358~hmac=d2c5d3ecce78eb9110eb8be556f11ecca3e6b5c3d34cf518618ff51cea8d227b&originpath=/linear/hls/pb/event/cihN52epToSN20WqT8yygA/stream/410bc226-2839-46b3-92b9-e25826986905:SIN2/master.m3u8|User-Agent=SonyLIV
