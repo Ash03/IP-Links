@@ -1,2 +1,5 @@
-#EXTINF:-1, Lol2
-https://sonydaime.akamaized.net/hls/live/2005445/DAI6ME/master.m3u8?hdnea=exp=1626774848~acl=/*~id=d50a3348c8cb4682a60b2b8091eac380-1626702244902-2011270715152814722~hmac=02f36f390958d8fa992c75774c5f4fdcfa550095e76408dc3d789a48ff3ad07d&originpath=/linear/hls/pb/event/g1cPcUIdSQC_3FXsrgV5iA/stream/c45d0459-2978-40ed-9887-2d64d6080f60:SIN/master.m3u8|User-Agent=SonyLIV
+#EXTM3U
+#EXTINF:-1, Tv
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/mono.m3u8?token=@IND_VS_SL_ODI_LIVE
+#EXTINF:-1, FHD
+https://sony247channels.akamaized.net/hls/live/2020591/TEN3HD/hdntl=exp=1626860005~acl=%2f*~id=4bc346a0-dd4c-4416-87d3-91605286915c~data=hdntl~hmac=381f0466120279396709942bb0c2afe0652065d306b2770717b963d5b064da0d/master_3500.m3u8?originpath=/linear/hls/pb/event/nmQFuHURTYGQBNdUG-2Qdw/stream/75f16fa0-a092-426e-a568-889957513d65:SIN/variant/f1167763b27b29d6a486f20789d4e579/bandwidth/4571600.m3u8|User-Agent=SonyLIV
