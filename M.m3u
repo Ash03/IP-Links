@@ -1,2 +1,3 @@
-#EXTINF:-1, 3
-https://sonydaime.akamaized.net/hls/live/2022315/MA1/master.m3u8?hdnea=st=1628071214~exp=1628071514~acl=*~id=347a98c7-dc6f-4afe-a936-d981a3e39f43~hmac=0e2cc98f2e7ad08036d4124ca6671d541bd798b5a220d9a190feb9629ad65f9c&originpath=/linear/hls/pb/event/OTz3QN8XQ7KzSvdh3uSfKw/stream/2dd55f56-2564-40fc-841a-0bf0eb6eaa3d:SIN2/master.m3u8|User-Agent=SonyLIV
+#EXTM3U
+#EXTINF:-1, 4
+https://sonydaime.akamaized.net/hls/live/2022315/MA1/master.m3u8?hdnea=exp=1628072803~acl=/*~id=695b23e6563a4cd4a80c9d66cc810157-1626679947827-2107190733193127352~hmac=b9f27b76fa4ffbad0c88befeefef6cffcc06be3d0a57bad8b47de66ff84e5128&originpath=/linear/hls/pb/event/OTz3QN8XQ7KzSvdh3uSfKw/stream/77ba56ce-294d-4c91-ae37-20483a817134:SIN2/master.m3u8|User-Agent=SonyLIV
