@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1, IND vs ENG | 1st Test | Day 2
-https://sonydaime.akamaized.net/hls/live/2005445/DAI6ME/master.m3u8?hdnea=st=1628157304~exp=1628157604~acl=*~id=30019699-7e5b-4141-904e-43b5b3d56db8~hmac=097543bf5e7fe76ae0c43f5e2ab8c40234dc34bd3f8fd6778a846b47b861cd0b&originpath=/linear/hls/pb/event/g1cPcUIdSQC_3FXsrgV5iA/stream/849d4411-b3f2-4ba0-9cd2-9fab0e09e2b1:SIN/master.m3u8|User-Agent=SonyLIV|User-Agent=SonyLIV
-#EXTINF:-1, IND vs ENG | 1st Test | Day 2 | 1st Session | Eng
-https://sonydaime.akamaized.net/hls/live/2005444/DAI7ME/master.m3u8?hdnea=st=1628157782~exp=1628158082~acl=*~id=0c33e1d8-66f4-4e5f-9c50-29d2f180dd04~hmac=e1d2e5e0bbf94071b9eba842df4a82ce89cd14a2ea501bdd86e343a666bf862a&originpath=/linear/hls/pa/event/hQXQ8apwTJeGKlGD7Oi7lQ/stream/df16b21c-8818-41d3-a1f2-25467338c80f:MRN2/master.m3u8|User-Agent=SonyLIV
+#EXTINF:-1, IND vs ENG | 1st Test | Day 2 | 1st Session | Eng | Try 1
+https://sonydaime.akamaized.net/hls/live/2022315/MA1/master.m3u8?hdnea=exp=1628158490~acl=/*~id=c12c55b1a2e243dca20bbef35f578509-1628157662044-1910030459104243262~hmac=835e89c0cfe825aa03fe3dda3d2b92ec01dcc26796c84163d51dcd023974e8dd&originpath=/linear/hls/pb/event/OTz3QN8XQ7KzSvdh3uSfKw/stream/99c2750b-616e-45c2-a49b-a8a3e378ad73:SIN/master.m3u8|User-Agent=SonyLIV
