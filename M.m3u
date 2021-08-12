@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1, IND vs ENG | 2nd Test | Day 1
+https://sonydaime.akamaized.net/hls/live/2020591/TEN3HD/hdntl=exp=1628847719~acl=%2f*~id=d5b8aa8b215f49399a380b2d65ba8271-1627018610396-190103080475271068~data=hdntl~hmac=979547d0501df53e46e92c5e274d16385cd10879278c1b1c4dd7316319af9a18/master_900.m3u8?aka_me_session_id=AAAAAAAAAABnPhZhAAAAAOOoZ9BEJOR4HcPiky%2fQqesOryYtrE3NpGZrr8VHjoyB3Go7GBzwdohvImQDPrZT40wr8iJZrUXe&aka_media_format_type=hls&originpath=/linear/hls/pb/event/nmQFuHURTYGQBNdUG-2Qdw/stream/29b8065a-3199-40c4-9ffa-b1a62894f281:SIN/variant/11c2e212352ab395f16c4e49ea9873a0/bandwidth/1218800.m3u8
