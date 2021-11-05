@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, 1
 http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
+#EXTINF:-1, 2
+https://live12p.hotstar.com/hls/live/2024725/iccwct20-2021/hin/1540009376/15mindvrm01582ed22042b34ec6975b1304534ca28205november2021/master_ksrhorhv_fhd.m3u8?a=ns&hdnea=st=1636116947~exp=1636117547~data=ip%3d9kAuK09vinsxu83XyiAs9p-userid%3dou09iJi2dVYQM6lKhj8mIntDguh0KXDiCNvnIxkcqj8s-did%3dzye3OM5DKpbslh8tCDinovf1BRH2WuRGOLkOimfgk5CWZDPAqvKivDN-~hmac=7a3434053428bd9787512ee72af128471547f798535a31cff5e4fb98aac3188c&ttl=43200&type=paid
