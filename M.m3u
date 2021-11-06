@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Cricket 1
+#EXTINF:-1, 1
 http://212.102.60.40:2200/EX/starsports1hd-in/index.m3u8
-#EXTINF:-1,IND vs SOC
-https://live12p.hotstar.com/hls/live/2024725/iccwct20-2021/hin/1540009379/15mindvrm02c2889d36362e4912abc15595f05ae8de05november2021/master_9j91dn5w_fhd.m3u8?a=ns&hdnea=st=1636119179~exp=1636119779~data=ip%3d9kAuK09vinsxu83XyiAs9p-userid%3dou09iJi2dVYQM6lKhj8mIntDguh0KXDiCNvnIxkcqj8s-did%3dHbusao6HuZ02vkdO0kfoVaD0FE4FjBtgiHeADznbo6tFJUbkKEXcbiV-~hmac=c2094e49ab858d9283cc27e0885a1fddf06648c7250bb3b5d145a656af8b34d7&ttl=43200&type=paid
+#EXTINF:-1, 2
+http://212.102.60.40:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8
+#EXTINF:-1, 3
+http://212.102.60.40:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=snehiptv
+#EXTINF:-1, 4 - 360p
+http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8?
+#EXTINF:-1, 5
+yash.com
