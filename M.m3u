@@ -1,3 +1,10 @@
 #EXTM3U
-#EXTINF:-1, 1
-Yash.com
+#EXTINF:-1, F-Eng
+https://d1zq5no55rw5ua.cloudfront.net/out/v1/20559c31aa284e8c8682b886e933287a/index_2.m3u8
+#EXTINF:-1, H 1080p
+https://livehin.fancode.com/linear/hls/pb/event/hZEJ5r8tTSiOkQZxgXtWbg/stream/863bd7b9-bb59-4739-b18c-9499b1ad7292:SIN/variant/db834edd27ac83ec4e82a6138a4d2940/bandwidth/3800296.m3u8|User-agent=Mozilla/5.0 (Linux; Android 12; M2103K19I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36&Referer=https://www.fancode.com&cookie=1P_JAR=2022-07-22-12; NID=511=PYr9KlOJqOvVxaOsv7ry5pYq20MPIsUkChmA_RMiM2KL7jQo246ffGB3GiwnuZ8AXqKdT6GAeMxRQ2C626_LL94Oh9ovWHsyGD8lF3sKsj_pjix2apXa67aMMMN2WeejolEV_dAUtCi1csd7SrHOOPd5JE6pYbHUeJ2vHr0n2h49zSu3_-aqVvPz-2THJwBmd_g7JQ6EycEHDcf5WxHIAmRu2qpEYvpipa77pZiD2fUL9kbsOX4utVUVyChErqoBGrniBaVQBy4
+#EXTINF:-1, H 720p
+https://livehin.fancode.com/linear/hls/pb/event/hZEJ5r8tTSiOkQZxgXtWbg/stream/863bd7b9-bb59-4739-b18c-9499b1ad7292:SIN/variant/0b60becafcb6d7fe48f2dbb7b0645d6a/bandwidth/1756808.m3u8|User-agent=Mozilla/5.0 (Linux; Android 12; M2103K19I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36&Referer=https://www.fancode.com&cookie=1P_JAR=2022-07-22-12; NID=511=PYr9KlOJqOvVxaOsv7ry5pYq20MPIsUkChmA_RMiM2KL7jQo246ffGB3GiwnuZ8AXqKdT6GAeMxRQ2C626_LL94Oh9ovWHsyGD8lF3sKsj_pjix2apXa67aMMMN2WeejolEV_dAUtCi1csd7SrHOOPd5JE6pYbHUeJ2vHr0n2h49zSu3_-aqVvPz-2THJwBmd_g7JQ6EycEHDcf5WxHIAmRu2qpEYvpipa77pZiD2fUL9kbsOX4utVUVyChErqoBGrniBaVQBy4
+#EXTINF:-1, H 520p
+https://livehin.fancode.com/linear/hls/pb/event/hZEJ5r8tTSiOkQZxgXtWbg/stream/863bd7b9-bb59-4739-b18c-9499b1ad7292:SIN/variant/07e18bebfc2ea94869ecd75944f41705/bandwidth/1245960.m3u8|User-agent=Mozilla/5.0 (Linux; Android 12; M2103K19I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36&Referer=https://www.fancode.com&cookie=1P_JAR=2022-07-22-12; NID=511=PYr9KlOJqOvVxaOsv7ry5pYq20MPIsUkChmA_RMiM2KL7jQo246ffGB3GiwnuZ8AXqKdT6GAeMxRQ2C626_LL94Oh9ovWHsyGD8lF3sKsj_pjix2apXa67aMMMN2WeejolEV_dAUtCi1csd7SrHOOPd5JE6pYbHUeJ2vHr0n2h49zSu3_-aqVvPz-2THJwBmd_g7JQ6EycEHDcf5WxHIAmRu2qpEYvpipa77pZiD2fUL9kbsOX4utVUVyChErqoBGrniBaVQBy4
+
