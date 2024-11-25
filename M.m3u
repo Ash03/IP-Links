@@ -1,4 +1,7 @@
-Dealing in fluctuations 📉
-Nusta Cricket 🏏
-Python love 💻
-Asset over liabilities 😌
+#EXTM3U
+#EXTINF:-1,IPL Auction
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2112587/uhd_akamai_ctv_avc_eng_ipl_auction_251124/master.m3u8
+#EXTINF:-1,TN Sports
+http://gcp-dash.ngslbs.com/TVD001/index.mpd
+#EXTINF:-1,Channel 3
+http://example.com/stream3.m3u8
