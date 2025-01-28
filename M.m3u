@@ -1,4 +1,9 @@
-Dealing in fluctuations 📉
-Nusta Cricket 🏏
-Python love 💻
-Asset over liabilities 😌
+#EXTM3U
+#EXT-X-MEDIA-SEQUENCE:0
+
+#EXTINF:A,
+https://example.com/live-stream/segment1.ts
+#EXTINF:B,
+https://example.com/live-stream/segment2.ts
+#EXTINF:C,
+https://example.com/live-stream/segment3.ts
