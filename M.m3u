@@ -1,9 +1,7 @@
 #EXTM3U
-#EXT-X-MEDIA-SEQUENCE:0
-
-#EXTINF:A,
-https://example.com/live-stream/segment1.ts
-#EXTINF:B,
-https://example.com/live-stream/segment2.ts
-#EXTINF:C,
-https://example.com/live-stream/segment3.ts
+#EXTINF:-1,Channel 1
+https://zee5vodnd.akamaized.net/hls1/titanfile/hls/TV_SHOWS/ZEE_MARATHI/December2024/23122024/Episode/REV_Lakshmi_Niwas_Ep1_Episode_23122024_mr_095029b79041f1d8a090f431d29f05a2/index-mid.m3u8?hdnea=st=1738051321~exp=1738055041~acl=/hls1/titanfile/hls/TV_SHOWS/ZEE_MARATHI/December2024/23122024/Episode/REV_Lakshmi_Niwas_Ep1_Episode_23122024_mr_095029b79041f1d8a090f431d29f05a2/index-mid.m3u8*~hmac=0a3dddb925cf66d1e8cce4c56d2802b45e4060e8a6298c55f92f14d759829de9&req_id=fbbd5434-bd81-43d5-8f3c-2adf2709f21a
+#EXTINF:-1,Channel 2
+http://example.com/stream2
+#EXTINF:-1,Channel 3
+http://example.com/stream3
