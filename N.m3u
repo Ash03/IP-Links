@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Ind vs Ban - ICC
-https://dj-tm-srvr2.vercel.app/icctv/ICC_CT25@DJ-TM.mpd?id=ch-hd-02|User-Agent=@DJ-TM&drmScheme=clearkey&drmLicense=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+#EXTINF:-1,Ind vs Pak | CT
+https://live12p.hotstar.com/hls/live/2027118/inallow-iccct-2025/hin/1540038855/15mindvrm0106a3563174164f9ab53b295306b82d3c23february2025/master_ap.m3u8?a=ns&hdnea=exp=1740323423~acl=%2fhls%2flive%2f2027118%2finallow-iccct-2025%2fhin%2f1540038855%2f15mindvrm0106a3563174164f9ab53b295306b82d3c23february2025%2fmaster_ap%2a~data=ip%3dT2XP5xTFdlXj6QaK2E6xg2xT7NqjHAnuhCz6fi1zy0mqDrELME8WxVD-userid%3dU8mRn5B1ZEER0Y70UZfgTOkP96ATCxyHK0hGRWwwpK2J-did%3deuvRjQOBxk7X7JSlaJV5O9pZsiT9G7gB6VfiwLenJFEh-cc%3din-de%3d1-pl%3dweb-ap%3d25.01.17.2-ut%3dfree-fpassv2-ttl%3d1800-type%3dpaid-~hmac=89876a2e2728193b6e1086ae0431ee1fb6fb19a800d636e4938c93efb0f9b977&ttl=1800&type=paid&acl=/hls/live/2027118/inallow-iccct-2025/hin/1540038855/15mindvrm0106a3563174164f9ab53b295306b82d3c23february2025/master_ap
 #EXTINF:-1,Ind vs Ban - Astro Crickett
 https://dj-tm-srvr4.vercel.app/astrocric/Astro_Cricket@DJ-TM.mpd?|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
