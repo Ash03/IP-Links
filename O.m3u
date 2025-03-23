@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1,E10
-https://streamio.yashkalvankar55.workers.dev/playback/1IlgC-40IWxbNmneXbQA9uNgU44guv21y/E10.mp4
-#EXTINF:-1,E10 New
-https://www.googleapis.com/drive/v3/files/1IlgC-40IWxbNmneXbQA9uNgU44guv21y?alt=media&key=AIzaSyBpQkioJoJSQxJp0xE_R3dgrZf4zHIVqIg
-#EXTINF:-1,E11
-https://streamio.yashkalvankar55.workers.dev/playback/1nXw9Q-xx18peUe0WDTNwGrULpivQzFH1/E11.mp4
-#EXTINF:-1,E12
-https://www.googleapis.com/drive/v3/files/1tkt9jf87SASyZH-Ijq2PYyhTJAAGPyVn?alt=media&key=AIzaSyBpQkioJoJSQxJp0xE_R3dgrZf4zHIVqIg
-#EXTINF:-1,E13
-https://www.googleapis.com/drive/v3/files/16OQ8Vh0o_7w7xZD0r7YwNOXFD2XcUm4H?alt=media&key=AIzaSyBpQkioJoJSQxJp0xE_R3dgrZf4zHIVqIg
+#EXTINF:-1,E14
+https://www.googleapis.com/drive/v3/files/16w3CnTuTIVV9iclBWfXYXBju4kXfrLR6?alt=media&key=AIzaSyBpQkioJoJSQxJp0xE_R3dgrZf4zHIVqIg
