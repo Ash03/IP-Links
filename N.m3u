@@ -10,8 +10,6 @@ https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1,ENG vs IND | Hin
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1, ENG vs IND | Highlights | Sky sports 
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4854911276001/ad374be7-5fbd-4178-ba21-432a300b8650/10s/master.m3u8?fastly_token=Njg2NjdiNmVfYWQ5YTIxMjBkNGQ4NTM5MzY2MDk2YzFmNjA5YjU1Njk0ZDg3MjdjN2JhMTE4ODJiY2IyMjU5NDdkOWE5OWQ3OQ%3D%3D
 #EXTINF:-1,WI vs AUS | 2nd Test | Fancode
 https://dai.fancode.com/linear/hls/pb/event/M35A4MhcQyGmBkmW4V_9YA/stream/b7248ab9-5f03-4e05-b210-fdafe73d85fd:SIN/variant/cbdd5a62ebd1421a6652782ac5e02a70/bandwidth/3322120.m3u8
 
@@ -19,3 +17,5 @@ https://dai.fancode.com/linear/hls/pb/event/M35A4MhcQyGmBkmW4V_9YA/stream/b7248a
 ##https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1,SL vs Ban | SonyLiv
 ##https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
+#EXTINF:-1, ENG vs IND | Highlights | Sky sports 
+##https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4854911276001/ad374be7-5fbd-4178-ba21-432a300b8650/10s/master.m3u8?fastly_token=Njg2NjdiNmVfYWQ5YTIxMjBkNGQ4NTM5MzY2MDk2YzFmNjA5YjU1Njk0ZDg3MjdjN2JhMTE4ODJiY2IyMjU5NDdkOWE5OWQ3OQ%3D%3D
