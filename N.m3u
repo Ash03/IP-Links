@@ -11,3 +11,6 @@ https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
 ##https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
 #EXTINF:-1, Highlights
 https://hssportsprepack.akamaized.net/videos/cricket/1271414670/1540044628/in/eng/v2/avc/1751484000280/hls/plain/master_AVh6jrMnb9EY5QFq_full_sd.m3u8?hdnea=st=1751518780~exp=1751519380~acl=/videos/cricket/1271414670/1540044628/in/eng/v2/avc/1751484000280/hls/plain/*~data=ip=HxJ5EEbHgsqlyQqpNH0N8T6WsJEiGjqbLJLVzGM8GdiQrcYLebn8aqW-userid=0R9K3tigwTf1yQWa6LvhzCbQuQoBogDAM97sVBhrAyy9-did=erwCopBEWq6CD7j43f7teVQEWWK4W53v9GnJOVjYwcBK-cc=in-de=1-pl=mweb-ap=25.06.20.1-ut=guest-~hmac=fb904e4d0ec3f4e426ed2e4e6ed0fbc412f42d0520f81ab15f2bce20a226061f
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 3 HD
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
