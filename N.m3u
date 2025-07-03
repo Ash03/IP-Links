@@ -5,15 +5,11 @@ https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #EXTINF:-1,ENG vs IND | SonyLiv
 https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
-#EXTINF:-1,WI vs AUS | Day 3 | Fancode
+#EXTINF:-1, ENG vs IND | Highlights | Hotstar
+https://hssportsprepack.akamaized.net/videos/cricket/1271414670/1540044628/in/eng/v2/avc/1751484000280/hls/plain/master_AVh6jrMnb9EY5QFq_full_sd.m3u8?hdnea=st=1751518780~exp=1751519380~acl=/videos/cricket/1271414670/1540044628/in/eng/v2/avc/1751484000280/hls/plain/*~data=ip=HxJ5EEbHgsqlyQqpNH0N8T6WsJEiGjqbLJLVzGM8GdiQrcYLebn8aqW-userid=0R9K3tigwTf1yQWa6LvhzCbQuQoBogDAM97sVBhrAyy9-did=erwCopBEWq6CD7j43f7teVQEWWK4W53v9GnJOVjYwcBK-cc=in-de=1-pl=mweb-ap=25.06.20.1-ut=guest-~hmac=fb904e4d0ec3f4e426ed2e4e6ed0fbc412f42d0520f81ab15f2bce20a226061f
+#EXTINF:-1, ENG vs IND | Highlights | Sky sports 
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4854911276001/ad374be7-5fbd-4178-ba21-432a300b8650/10s/master.m3u8?fastly_token=Njg2NjdiNmVfYWQ5YTIxMjBkNGQ4NTM5MzY2MDk2YzFmNjA5YjU1Njk0ZDg3MjdjN2JhMTE4ODJiY2IyMjU5NDdkOWE5OWQ3OQ%3D%3D
+#EXTINF:-1,WI vs AUS | 2nd Test | Day 1 | Fancode
 ##https://dai.fancode.com/primary/127550_english_hls_15563ta-di_h264/index.m3u8
 #EXTINF:-1,SL vs Ban | SonyLiv
 ##https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
-#EXTINF:-1, Highlights
-https://hssportsprepack.akamaized.net/videos/cricket/1271414670/1540044628/in/eng/v2/avc/1751484000280/hls/plain/master_AVh6jrMnb9EY5QFq_full_sd.m3u8?hdnea=st=1751518780~exp=1751519380~acl=/videos/cricket/1271414670/1540044628/in/eng/v2/avc/1751484000280/hls/plain/*~data=ip=HxJ5EEbHgsqlyQqpNH0N8T6WsJEiGjqbLJLVzGM8GdiQrcYLebn8aqW-userid=0R9K3tigwTf1yQWa6LvhzCbQuQoBogDAM97sVBhrAyy9-did=erwCopBEWq6CD7j43f7teVQEWWK4W53v9GnJOVjYwcBK-cc=in-de=1-pl=mweb-ap=25.06.20.1-ut=guest-~hmac=fb904e4d0ec3f4e426ed2e4e6ed0fbc412f42d0520f81ab15f2bce20a226061f
-#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 3 HD
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004638/1750954691867792_PROMO_INDIA_Vs_ENGLAND_WOMEN_3rd_T20I_25SEC_HOR_DATED_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: 3rd T20I
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/b47356e263ef4b51966982cfa5f0575d/1750954871/baseline-std-v4/1090483930_26062025_eng_baseline-800300010.mpd
