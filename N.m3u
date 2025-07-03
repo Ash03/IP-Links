@@ -10,6 +10,12 @@ https://hssportsprepack.akamaized.net/videos/cricket/1271414670/1540044628/in/en
 #EXTINF:-1, ENG vs IND | Highlights | Sky sports 
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4854911276001/ad374be7-5fbd-4178-ba21-432a300b8650/10s/master.m3u8?fastly_token=Njg2NjdiNmVfYWQ5YTIxMjBkNGQ4NTM5MzY2MDk2YzFmNjA5YjU1Njk0ZDg3MjdjN2JhMTE4ODJiY2IyMjU5NDdkOWE5OWQ3OQ%3D%3D
 #EXTINF:-1,WI vs AUS | 2nd Test | Day 1 | Fancode
-##https://dai.fancode.com/primary/127550_english_hls_15563ta-di_h264/index.m3u8
+https://dai.fancode.com/primary/127550_english_hls_15563ta-di_h264/index.m3u8
 #EXTINF:-1,SL vs Ban | SonyLiv
 ##https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
+#EXTINF:-1,Ten 5 HD
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1,Ten 3 HD
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
