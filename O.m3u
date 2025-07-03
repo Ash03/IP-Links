@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Panchayat S04 E01" group-title="1.New link grp", Panchayat S04 E01
-http://your-new-link.com/panchayat_s04_e01.mp4
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Children",Cartoon Network
+http://example.com/cartoon.m3u8
 
-#EXTINF:-1 tvg-name="Panchayat S04 E02" group-title="1.New link grp", Panchayat S04 E02
-http://your-new-link.com/panchayat_s04_e02.mp4
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Children",Cartoon Network
+http://example.com/cartoon.m3u8
 
-#EXTINF:-1 tvg-name="Panchayat S04 E01" group-title="2.Old link grp", Panchayat S04 E01 (Old)
-http://your-old-link.com/panchayat_s04_e01.mp4
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Okay",Cartoon Network
+http://example.com/cartoon.m3u8
 
-#EXTINF:-1 tvg-name="Panchayat S04 E02" group-title="2.Old link grp", Panchayat S04 E02 (Old)
-http://your-old-link.com/panchayat_s04_e02.mp4
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Okay",Cartoon Network
+http://example.com/cartoon.m3u8
