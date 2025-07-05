@@ -9,14 +9,13 @@ https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1,Eng vs IND | Sky Sports
-https://dj-tm-srvr1.vercel.app/title/FOX_501_HD(SD)@DJ-TM.m3u8?data=s40qMfGotHRLzAoOcTO3NPOpTDGxTCmNCjS0qLT0NvBzCYgqcg32zggPLnGycPfyzg7MzSosj6oyMsnSrnIuCI_KS84zcI4KinQJ9Q6wLNXPdXQ0zEiOqojMjAg0LCjSztf2j0xNMgt3CfQLLvGrCEzPLAgEAA|Telegram=@links_macha_official&Creator=@DJ-TM
-#EXTINF:-1,ENG vs IND | Hin
-https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+https://001.fclplayer.net/live/csstream1/playlist.m3u8?id=1001&pk=c58e9d936e3ed19b7f6a5b9fc7a3e1114f30c29e93f1ac18aedcedfcca29ffcc
+
+
 #EXTINF:-1,WI vs AUS | 2nd Test | Fancode
-https://dai.fancode.com/primary/127551_english_hls_83292ta-di_h264/index.m3u8
-
-
-
+##https://dai.fancode.com/primary/127551_english_hls_83292ta-di_h264/index.m3u8
+#EXTINF:-1,ENG vs IND | Hin
+##https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #EXTINF:-1,ENG vs IND | Eng
 ##https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1,SL vs Ban | SonyLiv
