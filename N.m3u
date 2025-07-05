@@ -3,12 +3,12 @@
 #EXTINF:-1,Ten 3 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-#EXTINF:-1,ENG vs IND | SonyLiv
+#EXTINF:-1,Sonyliv
 https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
 #EXTINF:-1,Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1,Eng vs IND | Sky Sports
+#EXTINF:-1,Sky Sports
 https://001.fclplayer.net/live/csstream1/playlist.m3u8?id=1001&pk=c58e9d936e3ed19b7f6a5b9fc7a3e1114f30c29e93f1ac18aedcedfcca29ffcc
 
 
