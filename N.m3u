@@ -9,12 +9,4 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 ,Ten 1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 #EXTINF:-1 ,Ten 2
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-#EXTINF:-1,CPL
-https://in-mc-fdlive.fancode.com/mumbai/132349_english_hls_692f622e9749387ta-di_h264/index.m3u8
-#EXTINF:-1,SonyLiv 1
-https://dj-tm-srvr2.vercel.app/snylv/THE_HUNDRED_MEN-M1(SONYLIV-ENG)@DJ-TM.m3u8?sid=8wvKinAsqYjMdAlMi8hxiYpwNI4yMnQrcAwsjExKyskBAA|Telegram=@links_macha_official&Creator=@DJ-TM
-#EXTINF:-1,SonyLiv 2
-https://dj-tm-srvr2.vercel.app/snylv/THE_HUNDRED_MEN-M2(SONYLIV-ENG)@DJ-TM.m3u8?sid=8wvLysmK1HfMDjROTU7Lco9wz00xTg4ojMowcTN0NLYAAA|Telegram=@links_macha_official&Creator=@DJ-TM
-#EXTINF:-1,TNT1
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?|drmScheme=clearkey&drmLicense=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+##https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
