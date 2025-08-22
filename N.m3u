@@ -7,8 +7,8 @@ https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1,Ten 1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-#EXTINF:-1,AUS vs SA | 2nd ODI
+#EXTINF:-1,ffff
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar.links_macha_official(Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1755898210~acl=%2f*~id=87046405e44684f61958046083ba49a1~data=hdntl~hmac=49c9167dfd8dee2d36097b856bbc2e6474e86b22da3609e322609ba57d563695
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-cookie=hdntl=exp=1755898210~acl=%2f*~id=87046405e44684f61958046083ba49a1~data=hdntl~hmac=49c9167dfd8dee2d36097b856bbc2e6474e86b22da3609e322609ba57d563695
 https://dj-tm-srvr2.vercel.app/htstr/hls/live/AUS_vs_SA-LIVE@DJ-TM.m3u8?data=BcHdGkIwAADQB3KxaKkbF8q-L2mGwrY7ocI0PyN5-s6xLOXvRgkTwGNaulI3STFPhZGUR_t3zh-jWAvkinlCG83WXeMux2jvdDTi6K0onr06bRaWeaB1hm0aReYLz_cDg17ma_pwWlTrVSaG-TeoM0a7m6g460sJIBIXn6w9WT4KBCt3cKAPhIeKP0PSXOM_
