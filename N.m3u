@@ -7,3 +7,8 @@ https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1,Ten 1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv_test" tvg-name="SonyLiv Test" group-title="SonyLiv", SonyLiv Live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv-sony.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BwA2T1gfKfQAJDFhZWU2MmNiLTA2YzQtNDFmZC1iZjdkLWRhZDg2NWFlNWNmYwAAAIBdHc_yhlMz47gPgi-gvStWyY4gR78BRQGQAXoJRD6ohuSX84fEp9chuAdsDP3d-wLhhwaYPpR-AgxgeJSByh0T5i1M_7S_Vm6RwQDSnui_CAjvuOVz8TVoUQZlR319AfAihBcNp2A6eGMMc7MM8LJ9nOAHIeUbwtsRPhpU-2xsn-zkB20sKy5IQUiPJalYUQJ0kohe&id=71f87a44f87c6febaf4dd26f43fd397290847798
+https://drm.sonyliv.com/DASH/f2ebeb9438f243c79fd445092f45f17d/1756326919/baseline-std-v4/1090487457_28082025_eng_baseline-800300010.mpd?hdnea=exp=1756405844~acl=/DASH/f2ebeb9438f243c79fd445092f45f17d/1756326919/baseline-std-v4/1090487457_28082025_eng_baseline-800300010.mpd*~id=f9d690e0fe1d4f54ae3550d73d68e604-1750687732877~hmac=33acaf0ba6beae831b2a80f41636c7805adf1a7125807fe999d0c836b3072fc2
+
