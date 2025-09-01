@@ -10,10 +10,11 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 
 
 
-#EXTINF:-1,Star Sports 1 Hindi
+#EXTINF:-1,Star
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8TPILskN88sMyM0PdXM08DA0LPaOynZ0dksOcE_JCc2PzMlyiTDwySwIK061iMjIiTL2zS00DHK0SLMwKAMA
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar.links_macha_official(Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1756736104~acl=*sshindi*~id=eec46a8442d55b2dfe0b83ec4e21d87d~data=hdntl~hmac=6e53b046f810314661406162ffc257c3d27161807cebd2eca633ab6c1c31270c
+#EXTHTTP:{"cookie":"hdntl=exp=1756736104~acl=*sshindi*~id=eec46a8442d55b2dfe0b83ec4e21d87d~data=hdntl~hmac=6e53b046f810314661406162ffc257c3d27161807cebd2eca633ab6c1c31270c"}
 https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1_HINDI-HD(JHSTAR)@DJ-TM.mpd?data=0y7KCy8MSQ0IKLTMtdQvyk9P8QwpKzX2DQnMzSnwdAs3dcv2qkgtC_EJcw4LdDGzMI3SNgvMMDHIqyrx8ysM8_DxSnHMck8sK660DHLx9gvM8ksKyE4qcAQA
+
 
