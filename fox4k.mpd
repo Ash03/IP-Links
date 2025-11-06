@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MPD xmlns:ns1="urn:mpeg:cenc:2013" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" id="201" type="dynamic" publishTime="2025-11-06T08:54:58+00:00" minimumUpdatePeriod="PT6S" availabilityStartTime="2024-12-12T03:38:29+00:00" minBufferTime="PT2S" suggestedPresentationDelay="PT12.000S" timeShiftBufferDepth="PT8998.000S" profiles="urn:mpeg:dash:profile:isoff-live:2011"><Period start="PT28110367.244S" id="12549486" duration="PT330859.780S"><AdaptationSet id="1629589715" mimeType="video/mp4" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1" bitstreamSwitching="true">
+      <SupplementalProperty schemeIdUri="urn:mpeg:dash:adaptation-set-switching:2016" value="974732990,1965491278" />
+      <Representation id="4" width="3840" height="2160" frameRate="50/1" bandwidth="15499968" codecs="hvc1.1.6.L153.B0">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" ns1:default_KID="F1A5816F-871E-4817-B412-41B6017FAADF" />
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <ns1:pssh>AAAAOnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABoSEPGlgW+HHkgXtBJBtgF/qt84AEjj3JWbBg==</ns1:pssh>
+        </ContentProtection>
+        <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
+          <ns1:pssh>AAADDnBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAu7uAgAAAQABAOQCPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgBiADQARwBsADgAUgA2AEgARgAwAGkAMABFAGsARwAyAEEAWAArAHEAMwB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AFgAdAB3AEwAUQBzAHcARQBaAEgASQA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAGQAcgBtAC4AYwBvAG4AdABlAG4AdAAuAGYAbwB4AHQAZQBsAC4AYwBvAG0ALgBhAHUALwBsAGkAYwBlAG4AcwBlAFMAZQByAHYAZQByAC8AcABsAGEAeQByAGUAYQBkAHkALwB2ADEALwBmAG8AeAB0AGUAbABvAHQAdAAvAGwAaQBjAGUAbgBzAGUAPwBjAG8AbgB0AGUAbgB0AEkAZAA9AHMAdAB4AF8AOAA0ADMAMAAwADEAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=</ns1:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="50000" media="https://webiptv.site/foxtel.php/86966d5956d944f2b1e5b7dfa405353a/index_video_3_0_$Number$.mp4?m=1761535171" initialization="https://webiptv.site/foxtel.php/86966d5956d944f2b1e5b7dfa405353a/index_video_3_0_init.mp4?m=1761535171" startNumber="12694678" presentationTimeOffset="1405518362200">
+          <SegmentTimeline>
+            <S t="1421779710200" d="112000" r="2513" />
+            <S t="1422061278200" d="73000" />
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="5" width="2880" height="1620" frameRate="50/1" bandwidth="8000000" codecs="hvc1.1.6.L150.B0">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" ns1:default_KID="F1A5816F-871E-4817-B412-41B6017FAADF" />
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <ns1:pssh>AAAAOnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABoSEPGlgW+HHkgXtBJBtgF/qt84AEjj3JWbBg==</ns1:pssh>
+        </ContentProtection>
+        <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
+          <ns1:pssh>AAADDnBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAu7uAgAAAQABAOQCPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgBiADQARwBsADgAUgA2AEgARgAwAGkAMABFAGsARwAyAEEAWAArAHEAMwB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AFgAdAB3AEwAUQBzAHcARQBaAEgASQA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAGQAcgBtAC4AYwBvAG4AdABlAG4AdAAuAGYAbwB4AHQAZQBsAC4AYwBvAG0ALgBhAHUALwBsAGkAYwBlAG4AcwBlAFMAZQByAHYAZQByAC8AcABsAGEAeQByAGUAYQBkAHkALwB2ADEALwBmAG8AeAB0AGUAbABvAHQAdAAvAGwAaQBjAGUAbgBzAGUAPwBjAG8AbgB0AGUAbgB0AEkAZAA9AHMAdAB4AF8AOAA0ADMAMAAwADEAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=</ns1:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="50000" media="https://webiptv.site/foxtel.php/86966d5956d944f2b1e5b7dfa405353a/index_video_4_0_$Number$.mp4?m=1761535171" initialization="https://webiptv.site/foxtel.php/86966d5956d944f2b1e5b7dfa405353a/index_video_4_0_init.mp4?m=1761535171" startNumber="12694678" presentationTimeOffset="1405518362200">
+          <SegmentTimeline>
+            <S t="1421779710200" d="112000" r="2513" />
+            <S t="1422061278200" d="73000" />
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2132724455" mimeType="audio/mp4" segmentAlignment="true" startWithSAP="1" lang="en" bitstreamSwitching="true">
+      <Label>English</Label>
+      <Representation id="8" bandwidth="128859" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" ns1:default_KID="94BF8060-4E88-4243-A689-FD8C546B7C32" />
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <ns1:pssh>AAAAOnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABoSEJS/gGBOiEJDpon9jFRrfDI4AEjj3JWbBg==</ns1:pssh>
+        </ContentProtection>
+        <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
+          <ns1:pssh>AAADDnBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAu7uAgAAAQABAOQCPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgBZAEkAQwAvAGwASQBoAE8AUQAwAEsAbQBpAGYAMgBNAFYARwB0ADgATQBnAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AGEAZgB3AGoATgA3AEIATwBrAEoANAA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAGQAcgBtAC4AYwBvAG4AdABlAG4AdAAuAGYAbwB4AHQAZQBsAC4AYwBvAG0ALgBhAHUALwBsAGkAYwBlAG4AcwBlAFMAZQByAHYAZQByAC8AcABsAGEAeQByAGUAYQBkAHkALwB2ADEALwBmAG8AeAB0AGUAbABvAHQAdAAvAGwAaQBjAGUAbgBzAGUAPwBjAG8AbgB0AGUAbgB0AEkAZAA9AHMAdAB4AF8AOAA0ADMAMAAwADEAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=</ns1:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="48000" media="https://webiptv.site/foxtel.php/86966d5956d944f2b1e5b7dfa405353a/index_audio_8_0_$Number$.mp4?m=1761535171" initialization="https://webiptv.site/foxtel.php/86966d5956d944f2b1e5b7dfa405353a/index_audio_8_0_init.mp4?m=1761535171" startNumber="12694678" presentationTimeOffset="1349297628544">
+          <SegmentTimeline>
+            <S t="1364908522240" d="107520" r="2513" />
+            <S t="1365178827520" d="69632" />
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    </Period></MPD>
